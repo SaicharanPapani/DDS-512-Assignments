@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.datasyslab:geotools-wrapper:1.1.0-24.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/datasyslab/geotools-wrapper/1.1.0-24.1/geotools-wrapper-1.1.0-24.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/datasyslab/geotools-wrapper/1.1.0-24.1/geotools-wrapper-1.1.0-24.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/datasyslab/geotools-wrapper/1.1.0-24.1/geotools-wrapper-1.1.0-24.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
